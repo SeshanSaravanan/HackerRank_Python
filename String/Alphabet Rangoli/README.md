@@ -64,7 +64,7 @@ string: a single string made up of each of the lines of the rangoli separated by
 Only one line of input containing , the size of the rangoli.
 
 # Constraints
-
+0 < N < 27
 
 # Sample Input
 ```
